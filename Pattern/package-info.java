@@ -1,1 +1,1 @@
-package pattern;
+package Pattern;
